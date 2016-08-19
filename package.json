@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-go",
+  "version": "1.0.0",
+  "description": "Sample pokemon-go app utilizing previous pokemon-go frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoistPockets/pokemon-go.git"
+  },
+  "author": "Richard Mbouombouo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoistPockets/pokemon-go/issues"
+  },
+  "homepage": "https://github.com/MoistPockets/pokemon-go#readme"
+}
